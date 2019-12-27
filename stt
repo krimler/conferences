@@ -6,3 +6,18 @@ https://www.quora.com/Which-library-is-best-for-speech-recognition-using-RNN-for
 
 https://github.com/lucko515/speech-recognition-neural-network
 https://github.com/kaldi-asr/kaldi
+
+
+-----
+https://stackoverflow.com/questions/54916400/speech-to-text-in-python-with-a-wav-file
+https://pypi.org/project/SpeechRecognition/1.2.3/
+https://stackoverflow.com/questions/46326922/read-wav-file-from-python-and-convert-frames-into-raw-s16le-string
+https://pypi.org/project/PySoundFile/
+https://realpython.com/playing-and-recording-sound-python/
+https://docs.python.org/3/library/audioop.html
+http://pydub.com/
+https://pypi.org/project/SoundFile/
+https://medium.com/@rahulvaish/speech-to-text-python-77b510f06de
+https://realpython.com/python-speech-recognition/#working-with-audio-files
+https://pyttsx3.readthedocs.io/en/latest/engine.html
+https://pypi.org/project/gTTS/
