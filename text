@@ -43,3 +43,19 @@ http://www.vldb.org/pvldb/vol12/p1986-nargesian.pdf
 https://vldb2020.org/formatting-guidelines.html
 =========
 https://github.com/chair6/varnish-wrapper
+==============
+But the general theme of the algo questions asked is around the following:
+1. Greedy
+2. DP
+3. Graphs
+-bfs dfs
+- dag toposort toporanks
+- shortest paths: djikstra bellman ford FW
+-articulation points and bridges
+- Euler paths
+- MST prims and kruskal
+- max flow min cut
+4. Binary search
+5. Stacks
+6. Heaps
+7. Disjoint set union
