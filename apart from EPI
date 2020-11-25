@@ -12,3 +12,62 @@ Competitive Programmer’s Handbook: Antti Laaksonen
 
 EPI 
 CPI
+--------------------
+Prep strategy:
+
+~3 months of leetcode. Roughly 2 questions per weekday. And on average 10-15 questions per holiday(so Saturdays Sundays and any holidays). No easies. All mediums or hards.
+LC count: ~200+ meds ~100 hards
+
+System design:
+Engineering blogs of Uber dropbox netflix github twitter
+Martin klepman- Designing data intensive applications
+Grokking systems design interview(found this one very shallow)
+
+
+Some topics to focus on:
+How is data stored and scaled? Replication and sharding
+How is data transferred? Encoding
+How is data operated on? Transactions
+How is communication and coordination handled? Consensus algos.
+
+A caveat:
+Let 'p' be the probability of the event E= getting an offer from XYZ company.
+
+'p' can never be 1.0
+
+However 'p' can be pushed closer to 1.0
+1. Add more companies to the event E
+2. Prep more. For this step I feel my recommended prep strategy should be good enough but YMMV
+
+Negotiation strategy:
+
+Just used the following two rules:
+
+A. Information is KEY!!
+- be aware of how you did in interviews. Ask for feedback on perf. After interview create notes on how you felt about your performance.
+- be aware of the usual levels of compensation at the level being offered. Blind+ levels.fyi are good sources.
+
+B. Have a 'STRONG' goal in mind
+What's your goal for negotiation?
+Just To get more? It won't work.
+
+Have something strong in your mind as a goal.
+This could be a number X below which you won't accept. The information in A helps determine X.
+For me %le in comp band was also a signal on how strongly the company wanted me.
+A company ready to pay me 99.9%le in order to get me is more attractive than some company paying me just enough to match.
+
+C. BONUS point. Don't make it all about compensation.
+For me peers. Culture. Kind of work and mission were critical too.
+
+Decision matrix:
+
+Work: Do I see myself working in that product space for next 10 years?
+Engineering culture: balance of development velocity vs perfection.
+Company culture: the way recruiter treats you or the compensation committee treats you gives insights into the company culture.
+Stay away from companies that low ball hard initially but then on presenting competing offers immediately match.
+How did I feel talking to folks who interviewed me?
+How passionate did they sound?
+Were they happy in their role?
+What was motivating them?
+--------------------------------------
+https://www.topcoder.com/community/competitive-programming/tutorials/
