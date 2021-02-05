@@ -134,3 +134,25 @@ i) Communication
 (1) Throughput of each layer
 (2) Latency caused between each layer
 (3) Overall latency justification
+--------------------------------------------------------
+
+System Design:
+I have ZERO hands-one experience with distributed system. I didn't know anything when I started my preparation.
+I read DDIA and System Design Interview (https://systeminterview.com/) book (better than grokking) and I did tons of mocks in the 2 months before
+the interview (like everyday). I also did a couple of paid on interviewing.io which were very useful.
+InfoQ videos are extremely useful. I lost count of how many I watched. And of course, countless of articles online to dig
+deeper in some area. Everything was new to me. It was a lot of work.
+Here you can see an old (bad performance) of mine, but at least you can get an idea about the format I used: https://bit.ly/36fxRhk
+Unfortunately the idea of recording my sessions came very late to my mind. And yes, this is also self-promoting.
+
+Coding:
+FB is very predictable, so stick to LC tagged questions and do lots of mocks. Train on speed and debugging
+manually, like I did here: https://bit.ly/2NB6vvz
+Some questions were not on LC but very similar. One interviewer asked me 5 (five) questions, because I was stupid
+honest about having seen 3 of them (all hard) and knew optimal solution which I outlined clearly.
+
+Behavioral:
+Do NOT underestimate this one! I started practicing and collecting stories only close to the end, but for senior positions
+is probably the most important. Luckily it went decent.
+
+I want to thank blind! It allowed me to connect with some people who have been practicing mock interviews with me and shared this journey in the last 3 months. Thanks a million!
